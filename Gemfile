@@ -9,7 +9,7 @@ group :development do
   gem 'sqlite3'
 end
 
-group :postgres do
+group :production do
   gem 'pg'
 end
 
